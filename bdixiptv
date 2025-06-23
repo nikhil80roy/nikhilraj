@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Gazi TV
-http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=968d64253bec413a1bc12eb033b3d7ca697d883b-b354ab2d2da022feae6ae86f125ed5e6-1750669295-1750658495
+http://172.19.178.39:18190/gtv/embed.html?token=aa4f7c5adaaa6457a2a6aa4c5ae4c2c594161c7d-c66ebf99d87dedd069b97b9c861ef854-1750684505-1750673705&autoplay=false&mute=false
 #EXTINF:-2, Maasranga Tv
 http://172.19.178.39:18190/maasranga/tracks-v1/index.fmp4.m3u8?token=c1ea77f769ce3abf3fb92a02a4639ceef3b17edd-f954b67c6c7ed53a201be0aaef0e99eb-1750681205-1750670405
 #EXTINF:-3, Somoy TV
