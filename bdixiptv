@@ -4,7 +4,7 @@ http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=968d64253bec413a1
 #EXTINF:-2, Maasranga Tv
 http://172.19.178.39:18190/maasranga/tracks-v1/index.fmp4.m3u8?token=c1ea77f769ce3abf3fb92a02a4639ceef3b17edd-f954b67c6c7ed53a201be0aaef0e99eb-1750681205-1750670405
 #EXTINF:-3, Somoy TV
-http://172.19.178.39:18190/somoytv/index.fmp4.m3u8?token=e9565f8ac8360259a7d9e79d10a45f4021219d24-24f77948060e9742495f3f866bda638a-1750670699-1750659899
+http://172.19.178.39:18190/somoytv/embed.html?token=4b15e769edbedaf0f1e8c14409204190051f1874-82ddb65e3913c4cee85d9a449a2b0f63-1750684300-1750673500&autoplay=false&mute=false
 #EXTINF:-4, Zee Bangla
 http://172.19.178.59:18190/zeebangla/embed.html?token=a88ca9eb6195fd53897e8ba1d2b28429b6c7a3da-eebb67a767aa746f60a5201da6121fb5-1750684023-1750673223&autoplay=false&mute=false
 #EXTINF:-5, Jalsa Movies
