@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1, Gazi TV
+http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=968d64253bec413a1bc12eb033b3d7ca697d883b-b354ab2d2da022feae6ae86f125ed5e6-1750669295-1750658495
+#EXTINF:-2, Maasranga Tv
+http://172.19.178.39:18190/maasranga/tracks-v1/index.fmp4.m3u8?token=c1ea77f769ce3abf3fb92a02a4639ceef3b17edd-f954b67c6c7ed53a201be0aaef0e99eb-1750681205-1750670405
+#EXTINF:-3, Somoy TV
+http://172.19.178.39:18190/somoytv/index.fmp4.m3u8?token=e9565f8ac8360259a7d9e79d10a45f4021219d24-24f77948060e9742495f3f866bda638a-1750670699-1750659899
+#EXTINF:-4, Zee Bangla
+http://172.19.178.59:18190/zeebangla/embed.html?token=a88ca9eb6195fd53897e8ba1d2b28429b6c7a3da-eebb67a767aa746f60a5201da6121fb5-1750684023-1750673223&autoplay=false&mute=false
+#EXTINF:-5, Jalsa Movies
+http://172.19.178.59:18190/jalshamovies/index.fmp4.m3u8?token=10092575a4a441d3771185703a1f45d5e98f5ac1-580ce2fbaa97e89942423a96466b810a-1750671650-1750660850
+#EXTINF:-6, Star Jalsa 
+http://172.19.178.59:18190/starjalsha/index.fmp4.m3u8?token=5ddc8275a33f98351e28674fab6a91ce40f7182c-6a933889bb83168f417245db7f169f67-1750671750-1750660950
+#EXTINF:-7, Sony aath 
+http://172.19.178.59:18190/sonyaath/embed.html?token=abccc5400cae4557edfa584b2d8433a8fd2a8468-0aca0df111afe822fb3d0975fabb9801-1750682874-1750672074&autoplay=false&mute=false
+#EXTINF:-7, Colurs Bangla HD
+http://172.19.178.59:18190/colorsbangla/index.fmp4.m3u8?token=f70c7c9dbd611cafe14cebb5b33f8c894798d96f-a891564004a45c60f2d3805d82d0d65f-1750672048-1750661248
+#EXTINF:-8, Zee Bangla Cinema HD
+http://172.19.178.59:18190/zeebanglacinema/tracks-v1/index.fmp4.m3u8?token=2741448c864f747bcb4b0f64668b5e7c190b4d7c-d2c63e050b83e303cbcd98336a9b5f86-1750672150-1750661350
+#EXTINF:-9, Tsport HD
+http://172.19.178.29:18190/CLOUD-TV-02/index.fmp4.m3u8?token=e7b827d375dac366bdb325256403bbcf5d7adf3e-c07302d8df1327839937d93ff703cfed-1750672259-1750661459
+#EXTINF:-10, Tsport HD 2
+http://172.19.178.29:18190/CLOUD-TV-03/index.fmp4.m3u8?token=d2b6dc895703254677816e8a56dd9fcb9b67dc72-8725b1a6aeda754e908827edd11e0722-1750672362-1750661562
+#EXTINF:-10, Sony Sport 5
+http://172.19.178.29:18190/CLOUD-TV-01/index.fmp4.m3u8?token=4b70877a0adc5a768ae0d249ec7147a17e37bb04-8f5b6709f317de6dc2fe942ee5139578-1750672433-1750661633
+#EXTINF:-11, Sony Max HD
+http://172.19.178.147:18190/sonymax/tracks-v1/index.fmp4.m3u8?token=2118619731ca5e65723774bb9c3958646cfc6e52-3053142dd014ebc0d0d1b0615ab07a1e-1750672564-1750661764
+#EXTINF:-12, Zee Cinema HD
+http://172.19.178.147:18190/zeecinema/tracks-v1/index.fmp4.m3u8?token=d3a013b9ae483bf12ead75c016f414566bca9b8a-8bb240cb6b9940ed38f01595614ba697-1750672669-1750661869
+#EXTINF:-13, BTV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000-437666705.ts
+#EXTINF:-14, Enter Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-15, Mastii Channel
+https://d14c63magvk61v.cloudfront.net/strm/channels/mastiii/67597C48000077CA662D-p0_tmpl1500k_1500k-1750666716032.ts
+#EXTINF:-16, Taandob
+https://pub-a5756dbc7de342e884b22d7ed4d38c86.r2.dev/70241a3e491f99c765acd8d99720e6bd/xflixbd.com-Taandob%20(2025)%20Bengali%201080p%20Full%20HD.mkv
+#EXTINF:-17, Srktv
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-19, Jamuna TV
+http://172.19.178.39:18190/jamunatv/embed.html?token=0ab8450795e83d31e508ea6bf0b8cac7f0912e6f-a801b84872d8dec1265a8c27db8e190a-1750684132-1750673332&autoplay=false&mute=false
+#EXTINF:-20, Ekattor Tv
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
+#EXTINF:-21, Independent Tv
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+#EXTINF:-22, Atn News
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=1692000.m3u8
+#EXTINF:-23, Bangla Vision
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
