@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1, ATN BANGLA
+http://103.175.242.10:8080/atnbangla/index.m3u8
+#EXTINF:-2, Zee Bangla
+http://103.175.242.10:8080/zeebangla/index.m3u8
+#EXTINF:-3, Bangla Vision
+http://103.175.242.10:8080/banglavision/index.m3u8
+#EXTINF:-4, Jalsa Movies
+http://103.175.242.10:8080/jalshamovies/index.m3u8
+#EXTINF:-5, NTV
+http://103.175.242.10:8080/ntv/index.m3u8
+#EXTINF:-6, Boishaki Tv
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-7, Independent
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+#EXTINF:-8, Jalsa HD
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2907.ts
+#EXTINF:-9, Jalsa HD
+http://stream247.live:8080/starjalsha/index.m3u8
+#EXTINF:-10, Nick load
+http://103.175.242.10:8080/nick/index.m3u8
+#EXTINF:-11, Sony Max HD
+http://stream247.live:8080/sonymax2/index.m3u8
+#EXTINF:-12, 24/7 Bangla Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-12, 24/7 Dubbed Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-13, 24/7 Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-14, 24/7 Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-15, 24/7 Bangla Kirtan
+https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
+#EXTINF:-16, 24/7 Hindi Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF:-16, 24/7 Bangla Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
